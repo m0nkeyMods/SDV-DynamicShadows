@@ -1,0 +1,10 @@
+{
+  "Name": "DynamicShadows",
+  "Author": "m0nkeyMods",
+  "Version": "1.0.1",
+  "Description": "Shadows are affected by time of day",
+  "UniqueID": "m0nkeyMods.DynamicShadows",
+  "EntryDll": "DynamicShadows.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
